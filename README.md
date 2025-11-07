@@ -1,6 +1,6 @@
 # tobeycodes
 
-- 12+ years of full stack engineering experience
+- software engineer with 12 years of experience
 - i write code with neovim, tmux, ghostty, and opencode
 - i build with typescript, **effect**, node, nestjs, react, next.js, react native, expo, tailwindcss, base-ui, tanstack, zustand, trpc, drizzle, react-hook-form, zod, better-auth, storybook, vitest, playwright, framer motion, turborepo, biome
 - worked on projects at scale for companies like uber, microsoft and publix
