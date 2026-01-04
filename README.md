@@ -1,8 +1,9 @@
 # tobeycodes
 
 - software engineer with 13 years of experience
-- i write code with neovim, tmux, ghostty, and opencode
-- i build with typescript, **effect**, node, nestjs, react, next.js, react native, expo, tailwindcss, base-ui, tanstack, zustand, trpc, drizzle, react-hook-form, zod, better-auth, storybook, vitest, playwright, framer motion, turborepo, biome
+- i write code in ghostty, neovim, tmux, and opencode
+- i write code with typescript, react, next.js, react native, expo, node, effect
+- i enjoy using tailwindcss, base-ui, tanstack, zustand, trpc, drizzle, react-hook-form, zod, better-auth, storybook, vitest, playwright, framer motion, turborepo, biome
 - worked on projects at scale for companies like uber, microsoft, and publix
 - founding engineer on crypto nft metaverse startup ($5mm nft sales at launch, $10mm in series a)
 - passionate about open source and contributing to several projects in the solana ecosystem
