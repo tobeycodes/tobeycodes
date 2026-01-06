@@ -7,7 +7,7 @@
 - worked on projects at scale for companies like uber, microsoft, and publix
 - founding engineer on crypto nft metaverse startup ($5mm nft sales at launch, $10mm in series a)
 - passionate about open source and contributing to several projects in the solana ecosystem
-- interested in crypto and currently building an open source crypto wallet
+- interested in crypto and currently building an open source crypto wallet [(winner of public goods award in colosseum cyperpunk hackathon)](https://arena.colosseum.org/hackathon/hall-of-fame)
 - open to contract/freelance work or the right full-time role where i truly believe in the product and can make real impact
 
 [x](https://x.com/tobeycodes) • [github](https://github.com/tobeycodes) • [twitch](https://twitch.tv/tobeycodes) • [youtube](https://youtube.com/@tobeycodes) • [telegram](https://t.me/tobeycodes)
