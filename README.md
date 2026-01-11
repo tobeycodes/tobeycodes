@@ -4,18 +4,11 @@ const tobey = {
   years: 13,
   editors: ["neovim", "opencode"],
   languages: ["typescript", "rust"],
-  frameworks: [
-    // backend
-    "node",
-    "nest.js",
-    "effect"
-    // frontend
-    "react",
-    "next.js",
-    // mobile
-    "react native",
-    "expo",
-  ],
+  frameworks: {
+    backend: ["node", "nestjs", "effect-ts"],
+    frontend: ["react", "next.js",],
+    mobile: ["react-native",  "expo"],
+  },
 }
 ```
 
