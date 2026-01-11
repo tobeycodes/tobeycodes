@@ -3,14 +3,18 @@ const tobey = {
   role: "software engineer",
   years: 13,
   editors: ["neovim", "opencode"],
-  languages: ["typescript"],
+  languages: ["typescript", "rust"],
   frameworks: [
+    // backend
+    "node",
+    "nest.js",
+    "effect"
+    // frontend
     "react",
     "next.js",
+    // mobile
     "react native",
     "expo",
-    "node",
-    "effect"
   ],
 }
 ```
