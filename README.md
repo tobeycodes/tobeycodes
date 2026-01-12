@@ -12,4 +12,4 @@ const tobey = {
 }
 ```
 
-[site](https://tobey.codes) • [x](https://x.com/tobeycodes) • [telegram](https://t.me/tobeycodes) • [github](https://github.com/tobeycodes) • [twitch](https://twitch.tv/tobeycodes) • [youtube](https://youtube.com/@tobeycodes)
+[site](https://tobey.codes) • [x](https://x.com/tobeycodes) • [schedule time](https://cal.com/tobeycodes/15min) • [telegram](https://t.me/tobeycodes) • [github](https://github.com/tobeycodes) • [twitch](https://twitch.tv/tobeycodes) • [youtube](https://youtube.com/@tobeycodes)
