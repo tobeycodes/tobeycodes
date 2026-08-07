@@ -2,11 +2,11 @@
 const tobey = {
   role: "software engineer",
   years: 13,
-  editors: ["neovim", "opencode"],
+  editors: ["neovim", "pi", "opencode"],
   languages: ["typescript", "rust"],
   frameworks: {
-    backend: ["node", "nestjs", "effect-ts"],
-    frontend: ["react", "next.js",],
+    backend: ["node", "effect-ts", "nestjs"],
+    frontend: ["react", "tanstack", "next.js",],
     mobile: ["react-native",  "expo"],
   },
   chains: ["solana", "svm", "ethereum", "evm"],
