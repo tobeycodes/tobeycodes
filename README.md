@@ -9,7 +9,6 @@ const tobey = {
     frontend: ["react", "tanstack", "next.js",],
     mobile: ["react-native",  "expo"],
   },
-  chains: ["solana", "svm", "ethereum", "evm"],
 }
 ```
 
